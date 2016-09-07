@@ -1,0 +1,39 @@
+html{
+background-color:#CCE5FF;
+}
+
+h1{
+display:block;
+background-color:cyan;
+text-align:center;
+height:50px;
+border:8px solid green;
+border-radius:5px 5px 5px 5px;
+padding-top:8px;
+letter-spacing:8px;
+
+
+}
+
+span{
+font-family:Arial;
+
+
+}
+#html{
+color:orange;
+}
+#CSS{
+color:cyan;
+}
+#Javas{
+color:#F2FA0D;
+}
+
+img {
+border-radius:5px 5px 5px 5px;
+border:8px solid green;
+}
+p{
+font-size:33px;
+}
